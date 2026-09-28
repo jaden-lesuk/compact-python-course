@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c55e9fc5-1858-43dc-9b62-3ff9ead82ac3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sandbox/name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/task5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +45,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
     "Python.name.executor": "Run",
+    "Python.random.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
+    "Python.task5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -78,7 +84,8 @@
       <workItem from="1789466756104" duration="1688000" />
       <workItem from="1789538769340" duration="3435000" />
       <workItem from="1789715595518" duration="6794000" />
-      <workItem from="1790089228955" duration="1728000" />
+      <workItem from="1790089228955" duration="2796000" />
+      <workItem from="1790578784307" duration="3138000" />
     </task>
     <servers />
   </component>
@@ -109,11 +116,13 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CompactPythonCourse$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1789717530102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1" />
-    <SUITE FILE_PATH="coverage/CompactPythonCourse$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1789717997446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1" />
-    <SUITE FILE_PATH="coverage/CompactPythonCourse$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1789799770635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1" />
+    <SUITE FILE_PATH="coverage/CompactPythonCourse$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1790588791975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" />
+    <SUITE FILE_PATH="coverage/CompactPythonCourse$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1790590044790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" />
+    <SUITE FILE_PATH="coverage/CompactPythonCourse$random.coverage" NAME="random Coverage Results" MODIFIED="1790092078000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandbox" />
+    <SUITE FILE_PATH="coverage/CompactPythonCourse$task5.coverage" NAME="task5 Coverage Results" MODIFIED="1790590833259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" />
     <SUITE FILE_PATH="coverage/CompactPythonCourse$main.coverage" NAME="main Coverage Results" MODIFIED="1790090830646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CompactPythonCourse$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1790589487527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" />
     <SUITE FILE_PATH="coverage/CompactPythonCourse$name.coverage" NAME="name Coverage Results" MODIFIED="1790090822597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandbox" />
-    <SUITE FILE_PATH="coverage/CompactPythonCourse$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1789800021297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week1" />
+    <SUITE FILE_PATH="coverage/CompactPythonCourse$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1790589783599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" />
   </component>
 </project>
