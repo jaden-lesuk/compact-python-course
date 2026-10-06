@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c55e9fc5-1858-43dc-9b62-3ff9ead82ac3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sandbox/random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/Cars93_missing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/pandas_work.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +41,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
     "Python.name.executor": "Run",
+    "Python.pandas_work.executor": "Run",
     "Python.random.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task2.executor": "Run",
@@ -56,6 +53,8 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/jaden/PycharmProjects/CompactPythonCourse/week3",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
@@ -63,6 +62,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jaden\PycharmProjects\CompactPythonCourse\week3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jaden\PycharmProjects\CompactPythonCourse\week1" />
     </key>
@@ -85,7 +87,9 @@
       <workItem from="1789538769340" duration="3435000" />
       <workItem from="1789715595518" duration="6794000" />
       <workItem from="1790089228955" duration="2796000" />
-      <workItem from="1790578784307" duration="3138000" />
+      <workItem from="1790578784307" duration="3228000" />
+      <workItem from="1790703211941" duration="1854000" />
+      <workItem from="1791302696020" duration="702000" />
     </task>
     <servers />
   </component>
